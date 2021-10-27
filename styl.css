@@ -1,0 +1,32 @@
+html,body{
+    display: block;
+    background-color: grey;
+    font-family: helvetica,"Agency FB",roboto;
+    font-size: 25px;
+    height: 50%;
+    text-align: center;
+    padding:80px;
+    margin:50px;
+    align-content: center;
+}
+h1{
+    padding:10px;
+    text-align: center;
+    font-family: "Arial Black";
+    font-size: 40px;
+}
+.main{
+    padding:5px;
+    box-shadow:  4px 2px 2px  9px grey;
+    max-width:400px;
+    min-height: 600px;
+    background-color: darkgrey;
+}
+.name{
+    font-style: oblique;
+}
+.btn{
+    padding:20px;
+    font-style: italic;
+    margin:15px;
+}
